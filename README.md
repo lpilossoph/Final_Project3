@@ -85,4 +85,4 @@ I then tested Logistic Regression, Decision Tree, Random Forest, Gradient Boost,
 
 # Use Cases
 
-The ability to gain insight on which kinds of hospital admissions are most profitable has many use cases. Ideally, a tool like this could assist ambulances to direct patients to the appropriate hospital where their specialties match with the patient's diagnosis, increading the chances of profitability. It also helps to provide insight into failing hospitals and could perhaps redirect their resources to deal with the specific needs of their patient population, thereby decreasing the chance of losing profit. 
+The ability to gain insight on which kinds of hospital admissions are most profitable has many use cases. Ideally, a tool like this could assist ambulances to direct patients to the appropriate hospital where their specialties match with the patient's diagnosis, increasing the chances of profitability. It also helps to provide insight into failing hospitals who could perhaps redirect their resources to deal with the specific needs of their patient population and community, thereby decreasing the chance of hospital operating margin deficits. 
