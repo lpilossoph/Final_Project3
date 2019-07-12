@@ -83,6 +83,8 @@ Total Costs - Total estimated costs for the discharge.
 Utilizing this dataset, I was able to calcluate estimated operating margins for each encounter and I distilled the dataset to relevant features that may affect cost as it relates to the hospital admission. 
 I then tested Logistic Regression, Decision Tree, Random Forest, Gradient Boost, Adaboost, and XGBoost to find the best model to predict these features. I then used a waterfall graph to explore how the features interact to predict hospital admission/discharge profitability.
 
+<a href="https://github.com/lpilossoph/Final_Project3/blob/master/Final_Project3.ipynb">Link to Notebook</a>
+
 # Use Cases
 
 The ability to gain insight on which kinds of hospital admissions are most profitable has many use cases. Ideally, a tool like this could assist ambulances to direct patients to the appropriate hospital where their specialties match with the patient's diagnosis, increasing the chances of profitability. It also helps to provide insight into failing hospitals who could perhaps redirect their resources to deal with the specific needs of their patient population and community, thereby decreasing the chance of hospital operating margin deficits. 
